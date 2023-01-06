@@ -3,7 +3,7 @@
 <param ve-config 
        title="Gilliflower/Gilly Flower"
        author="Kyra March"
-       banner="https://www.britannica.com/plant/gillyflower/images-videos)](https://www.britannica.com/plant/gillyflower)" 
+       banner="https://www.dreamstime.com/gilliflower-gilliflower-gillyflower-image129725654)" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
